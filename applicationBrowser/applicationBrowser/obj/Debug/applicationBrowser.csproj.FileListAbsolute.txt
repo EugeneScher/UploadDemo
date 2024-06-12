@@ -1,0 +1,20 @@
+C:\Users\Vadim\Desktop\visual c#\applicationBrowser\applicationBrowser\bin\Debug\applicationBrowser.exe.config
+C:\Users\Vadim\Desktop\visual c#\applicationBrowser\applicationBrowser\bin\Debug\applicationBrowser.exe
+C:\Users\Vadim\Desktop\visual c#\applicationBrowser\applicationBrowser\bin\Debug\applicationBrowser.pdb
+C:\Users\Vadim\Desktop\visual c#\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.csprojAssemblyReference.cache
+C:\Users\Vadim\Desktop\visual c#\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.Form1.resources
+C:\Users\Vadim\Desktop\visual c#\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.Properties.Resources.resources
+C:\Users\Vadim\Desktop\visual c#\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.csproj.GenerateResource.cache
+C:\Users\Vadim\Desktop\visual c#\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\visual c#\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.exe
+C:\Users\Vadim\Desktop\visual c#\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.pdb
+C:\Users\Eugenius\Desktop\проеект браузер (занятие 13)\applicationBrowser\applicationBrowser\bin\Debug\applicationBrowser.exe.config
+C:\Users\Eugenius\Desktop\проеект браузер (занятие 13)\applicationBrowser\applicationBrowser\bin\Debug\applicationBrowser.exe
+C:\Users\Eugenius\Desktop\проеект браузер (занятие 13)\applicationBrowser\applicationBrowser\bin\Debug\applicationBrowser.pdb
+C:\Users\Eugenius\Desktop\проеект браузер (занятие 13)\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.csproj.AssemblyReference.cache
+C:\Users\Eugenius\Desktop\проеект браузер (занятие 13)\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.Form1.resources
+C:\Users\Eugenius\Desktop\проеект браузер (занятие 13)\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.Properties.Resources.resources
+C:\Users\Eugenius\Desktop\проеект браузер (занятие 13)\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.csproj.GenerateResource.cache
+C:\Users\Eugenius\Desktop\проеект браузер (занятие 13)\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Eugenius\Desktop\проеект браузер (занятие 13)\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.exe
+C:\Users\Eugenius\Desktop\проеект браузер (занятие 13)\applicationBrowser\applicationBrowser\obj\Debug\applicationBrowser.pdb
